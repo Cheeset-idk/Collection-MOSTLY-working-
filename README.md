@@ -16,4 +16,6 @@ https://cheeset-idk.github.io/Cheesets-Marker-RNG-Odyssey/  Cheesets marker RNG 
 
 https://cheeset-idk.github.io/Everything-Upgrade-Tree-early-access-/  EUT WEB (VERY broken, sorries)
 
+https://cheeset-idk.github.io/Steal-a-cat-/  Steal A Cat! (earns offline!)
+
 I'm always making more, so make sure to check in every so often! :3
