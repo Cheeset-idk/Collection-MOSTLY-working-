@@ -18,4 +18,6 @@ https://cheeset-idk.github.io/Everything-Upgrade-Tree-early-access-/  EUT WEB (V
 
 https://cheeset-idk.github.io/Steal-a-cat-/  Steal A Cat! (earns offline!)
 
+https://cheeset-idk.github.io/2048-/  2048+
+
 I'm always making more, so make sure to check in every so often! :3
