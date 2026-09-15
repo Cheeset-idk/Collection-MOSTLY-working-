@@ -20,4 +20,6 @@ https://cheeset-idk.github.io/Steal-a-cat-/  Steal A Cat! (earns offline!)
 
 https://cheeset-idk.github.io/2048-/  2048+
 
+https://cheeset-idk.github.io/Dino-Run-/  Dino Run+
+
 I'm always making more, so make sure to check in every so often! :3
