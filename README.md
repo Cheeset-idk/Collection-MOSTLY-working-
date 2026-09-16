@@ -14,7 +14,7 @@ https://cheeset-idk.github.io/Fish.OS-V0.01/  Fish.OS (lowkey sucks mb)
 
 https://cheeset-idk.github.io/Cheesets-Marker-RNG-Odyssey/  Cheesets marker RNG odyssey (50k markers!)
 
-https://cheeset-idk.github.io/Everything-Upgrade-Tree-early-access-/  EUT WEB (VERY broken, sorries)
+https://cheeset-idk.github.io/EUT-major-update-/  EUT WEB (Update, it's just difficult now)
 
 https://cheeset-idk.github.io/Steal-a-cat-/  Steal A Cat! (earns offline!)
 
