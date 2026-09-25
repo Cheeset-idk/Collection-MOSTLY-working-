@@ -30,7 +30,7 @@ https://cheeset-idk.github.io/Case-Opening-Simulator/ Case Opening Simulator
 
 https://cheeset-idk.github.io/Abyssal-Sludge/ Abyssal Sludge (Reused code)
 
-https://cheeset-idk.github.io/Idle-planting/ Idle Planting 
+https://cheeset-idk.github.io/Idle-planting/ Idle Planting (needs fixing)
 
 
 
