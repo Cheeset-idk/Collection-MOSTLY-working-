@@ -24,7 +24,11 @@ https://cheeset-idk.github.io/Dino-Run-/  Dino Run+
 
 https://cheeset-idk.github.io/Cheeset-s-untitled-shooter/  Cheeset's Untitled Shooter
 
-https://cheeset-idk.github.io/Cheeset-s-Jelly-Pinball-/  Cheeset's Jelly Pinball!
+https://cheeset-idk.github.io/Cheeset-s-Jelly-Pinball-/  Cheeset's Jelly Pinball
+
+https://cheeset-idk.github.io/Case-Opening-Simulator/ Case Opening Simulator
+
+https://cheeset-idk.github.io/Abyssal-Sludge/ Abyssal Sludge (Reused code)
 
 
 
