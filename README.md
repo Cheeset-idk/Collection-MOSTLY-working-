@@ -68,3 +68,37 @@ https://railway.com/ *free Cloud provider
 https://humanbenchmark.com/dashboard Funny little challenges :3 
 
 https://www.geo-fs.com/ Huge web based plane sim (entire world)
+
+https://cheeset-idk.github.io/Bit-plane/ Bit plane
+
+https://cheeset-idk.github.io/Minesweeper-html/ Minesweeper
+
+https://cheeset-idk.github.io/Paper.io-2/ Paper.io-2
+
+https://cheeset-idk.github.io/Stack/ Stack
+
+https://cheeset-idk.github.io/territorial.io/ Territorial.io
+
+https://cheeset-idk.github.io/FNAF-1/ FNAF1
+
+https://cheeset-idk.github.io/Happy-Wheels/ Happy Wheels
+
+https://cheeset-idk.github.io/Hole.io/ Hole.io (very sucky ripoff)
+
+https://cheeset-idk.github.io/geometry-dash/ Gemoeterty dash (scratch ver. less laggy)
+
+https://cheeset-idk.github.io/Cookie-clicker/ Cookie clicker
+
+https://cheeset-idk.github.io/Basket-random/ Basket Random
+
+https://cheeset-idk.github.io/Angry-birds/ Angry Birds
+
+https://cheeset-idk.github.io/volley-random/ Volley Random
+
+https://cheeset-idk.github.io/Slope/ Slope
+
+https://cheeset-idk.github.io/Melon-playground/ Unofficial melon playground
+
+https://cheeset-idk.github.io/PVZ/ Plants vs. zombies
+
+https://cheeset-idk.github.io/Snowball.io/ Snowball.io
