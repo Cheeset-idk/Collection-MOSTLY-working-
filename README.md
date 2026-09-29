@@ -104,3 +104,13 @@ https://cheeset-idk.github.io/Melon-playground/ Unofficial melon playground
 https://cheeset-idk.github.io/PVZ/ Plants vs. zombies
 
 https://cheeset-idk.github.io/Snowball.io/ Snowball.io
+
+https://cheeset-idk.github.io/FNAF-4/ FNAF 4
+
+https://cheeset-idk.github.io/FNAF-2/ FNAF 2 (idk if it works or not, I couldn't get it to load, file size was right though...
+
+https://cheeset-idk.github.io/Boxing-random/ Boxing random
+
+https://cheeset-idk.github.io/Soccer-random/ Soccer random
+
+https://drive.google.com/drive/folders/1QXbjGWMvNc79cps6N5EI9OL1UpLs6_mD?usp=drive_link LOWKEY NOT EVEN PIRATED GAMES LOWKEY GUYS 🤔😍😍😍😍
