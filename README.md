@@ -114,3 +114,27 @@ https://cheeset-idk.github.io/Boxing-random/ Boxing random
 https://cheeset-idk.github.io/Soccer-random/ Soccer random
 
 https://drive.google.com/drive/folders/1QXbjGWMvNc79cps6N5EI9OL1UpLs6_mD?usp=drive_link LOWKEY NOT EVEN PIRATED GAMES LOWKEY GUYS 🤔😍😍😍😍
+
+https://cheeset-idk.github.io/papas-pancakeria/ Papas Pancakeria
+
+https://cheeset-idk.github.io/papas-hotdoggeria/ Papas hotdoggeria
+
+https://cheeset-idk.github.io/papas-freezeria/ Papas Freezeria
+
+https://cheeset-idk.github.io/papas-burgeria/ Papas Burgeria
+
+https://cheeset-idk.github.io/papas-bakeria/ Papas Bakeria
+
+https://cheeset-idk.github.io/papas-cheeseria/ Papas Cheeseria
+
+https://cheeset-idk.github.io/papas-cupakeria/ Papas Cupcakeria
+
+https://cheeset-idk.github.io/monkey-mart/ Monkey Mart
+
+https://cheeset-idk.github.io/level-devil/ Level Devil
+
+https://cheeset-idk.github.io/backrooms/ Backrooms
+
+https://cheeset-idk.github.io/awesome-tanks-1/ Awesome tanks 1
+
+https://cheeset-idk.github.io/awesome-tanks-2/ Awesome tanks 2
