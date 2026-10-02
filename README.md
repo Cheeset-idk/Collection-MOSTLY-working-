@@ -133,6 +133,8 @@ https://cheeset-idk.github.io/monkey-mart/ Monkey Mart
 
 https://cheeset-idk.github.io/level-devil/ Level Devil
 
+https://cheeset-idk.github.io/minecraft-1.8.8/ Minecraft (a little old)
+
 https://cheeset-idk.github.io/backrooms/ Backrooms (to lock mouse, click)
 
 https://cheeset-idk.github.io/awesome-tanks-1/ Awesome tanks 1
