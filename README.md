@@ -145,3 +145,7 @@ https://slqntdevss.github.io/TTCPort/ To the core
 
 https://cheeset-idk.github.io/people-playground-/ (no jdelsivr)
 
+https://cheeset-idk.github.io/Mindustry/ Mindustry (takes a few minutes to load)
+
+https://cheeset-idk.github.io/FNF-HTML-Port/ FNF (if things take too long to load, try reloading the page)
+
