@@ -160,3 +160,5 @@ https://theveryoilydill.github.io/celeste/ celeste
 https://cheeset-idk.github.io/terraria-/ Terraria
 
 https://skibidi-math.github.io/endoparasitic/ Endoparasitic
+
+https://law-dawg360.github.io/Shapez/shapez/modZ/ Shapez.io
