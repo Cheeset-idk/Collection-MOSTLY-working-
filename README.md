@@ -149,3 +149,12 @@ https://cheeset-idk.github.io/Mindustry/ Mindustry (takes a few minutes to load)
 
 https://cheeset-idk.github.io/FNF-HTML-Port/ FNF (if things take too long to load, try reloading the page)
 
+https://ugs-plus.github.io/idle-mining-empire Idle mining empire
+
+https://cheeset-idk.github.io/geometry-dash-web-full/ VERY old geometry dash ver.
+
+https://theveryoilydill.github.io/celeste/ celeste
+
+https://cheeset-idk.github.io/terraria-/ Terraria
+
+https://skibidi-math.github.io/endoparasitic/ Endoparasitic
