@@ -141,6 +141,8 @@ https://cheeset-idk.github.io/awesome-tanks-1/ Awesome tanks 1
 
 https://cheeset-idk.github.io/awesome-tanks-2/ Awesome tanks 2
 
+FOLLOWING GAMES ARE A LOT BIGGER, REQUIRING MORE LOADING TIME AND BROWSER MEMORY USAGE!
+
 https://slqntdevss.github.io/TTCPort/ To the core
 
 https://cheeset-idk.github.io/people-playground-/ (no jdelsivr)
