@@ -165,3 +165,7 @@ https://law-dawg360.github.io/Shapez/shapez/modZ/ Shapez.io (huge game)
 
 https://cheeset-idk.github.io/kittens-tycoon/ KittensGame (Another huge game btw)
 
+https://cheeset-idk.github.io/stardew-wasm/ Stardew valley (unsure if working)
+
+https://pmotschmann.github.io/Evolve/ (similar to KittensGame, just more of a clicker)
+
