@@ -161,4 +161,7 @@ https://cheeset-idk.github.io/terraria-/ Terraria
 
 https://skibidi-math.github.io/endoparasitic/ Endoparasitic
 
-https://law-dawg360.github.io/Shapez/shapez/modZ/ Shapez.io
+https://law-dawg360.github.io/Shapez/shapez/modZ/ Shapez.io (huge game)
+
+https://cheeset-idk.github.io/kittens-tycoon/ KittensGame (Another huge game btw)
+
