@@ -157,7 +157,7 @@ https://cheeset-idk.github.io/geometry-dash-web-full/ VERY old geometry dash ver
 
 https://theveryoilydill.github.io/celeste/ celeste
 
-https://cheeset-idk.github.io/terraria-/ Terraria
+https://cheeset-idk.github.io/terraria-/ Terraria (chromebook not working rn)
 
 https://skibidi-math.github.io/endoparasitic/ Endoparasitic
 
