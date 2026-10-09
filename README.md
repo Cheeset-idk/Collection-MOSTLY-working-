@@ -170,3 +170,6 @@ https://cheeset-idk.github.io/stardew-wasm/ Stardew valley (unsure if working)
 https://pmotschmann.github.io/Evolve/ (similar to KittensGame, just more of a clicker)
 
 https://pelya.github.io/openttd-touch-webapp OpenTTD (DEFINITELY USE TUTORIAL MY GOD THIS GAME IS 110x MORE COMPLICATED THAN SHAPEZ)
+
+https://cheeset-idk.github.io/SMB-Remastered-1.1.0-Webport-T4actica1-/ Super Mario Bros Remastered (to play, go to repository and install rom.nes, then open the game and drag the file onto the screen once asked. z+action x+back Arrows+movement).
+
