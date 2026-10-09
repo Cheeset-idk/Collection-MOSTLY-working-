@@ -169,3 +169,4 @@ https://cheeset-idk.github.io/stardew-wasm/ Stardew valley (unsure if working)
 
 https://pmotschmann.github.io/Evolve/ (similar to KittensGame, just more of a clicker)
 
+https://pelya.github.io/openttd-touch-webapp OpenTTD (DEFINITELY USE TUTORIAL MY GOD THIS GAME IS 110x MORE COMPLICATED THAN SHAPEZ)
