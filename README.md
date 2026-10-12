@@ -6,6 +6,7 @@ Some are a little broken, but can normally be fixed by js doing stuff lowkey. (F
 using Control -, while Control + does the opposite. ONLY do this in the spin section tho, the blocks disappear sometimes if you don't. There are other bugs like
 this, and some that js can't be fixed at all, sorry :3)
 
+https://cheeset-idk.github.io/-Cheeset-idk.github.io/ Website for ts
 Anyways, here are the links:
 
 https://cheeset-idk.github.io/Dig-deep-inf-recourses-/  Dig Deep
