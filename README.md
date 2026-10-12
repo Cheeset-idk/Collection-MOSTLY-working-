@@ -174,3 +174,5 @@ https://pelya.github.io/openttd-touch-webapp OpenTTD (DEFINITELY USE TUTORIAL MY
 https://cheeset-idk.github.io/SMB-Remastered-1.1.0-Webport-T4actica1-/ Super Mario Bros Remastered (to play, go to repository and install rom.nes, then open the game and drag the file onto the screen once asked. z+action x+back Arrows+movement).
 
 https://kkorenn.github.io/cattle3d/ CRAZY CATTLE 3D
+
+https://vinmannie.github.io/Mario64webgl/ Super Mario 64
