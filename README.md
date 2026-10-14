@@ -38,7 +38,7 @@ https://cheeset-idk.github.io/Idle-planting/ Idle Planting (needs fixing)
 I'm always making more, so make sure to check in every so often! :3
 
 
-(Other fun websites I didn't make)
+ALL OF THE FOLLOWING I DIDN'T MAKE
 
 https://thebigcb.com/projects/ Experiment website
 
@@ -177,3 +177,5 @@ https://cheeset-idk.github.io/SMB-Remastered-1.1.0-Webport-T4actica1-/ Super Mar
 https://kkorenn.github.io/cattle3d/ CRAZY CATTLE 3D
 
 https://vinmannie.github.io/Mario64webgl/ Super Mario 64
+
+I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
