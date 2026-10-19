@@ -180,4 +180,8 @@ https://cheeset-idk.github.io/Slime-rancher/ Slime Rancher
 
 https://cheeset-idk.github.io/geometry-dash-wasm/ Geometry dash (full offline)
 
+https://cheeset-idk.github.io/adgac/ A difficult game about climbing (VERY LAGGY CAN FREEZE MOST CHROMEBOOK)
+
+
+
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
