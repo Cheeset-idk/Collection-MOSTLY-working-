@@ -88,8 +88,6 @@ https://cheeset-idk.github.io/Happy-Wheels/ Happy Wheels
 
 https://cheeset-idk.github.io/Hole.io/ Hole.io (very sucky ripoff)
 
-https://cheeset-idk.github.io/geometry-dash/ Gemoeterty dash (scratch ver. less laggy)
-
 https://cheeset-idk.github.io/Cookie-clicker/ Cookie clicker
 
 https://cheeset-idk.github.io/Basket-random/ Basket Random
@@ -154,8 +152,6 @@ https://cheeset-idk.github.io/FNF-HTML-Port/ FNF (if things take too long to loa
 
 https://ugs-plus.github.io/idle-mining-empire Idle mining empire
 
-https://cheeset-idk.github.io/geometry-dash-web-full/ VERY old geometry dash ver.
-
 https://theveryoilydill.github.io/celeste/ celeste
 
 https://cheeset-idk.github.io/terraria-/ Terraria (chromebook not working rn)
@@ -179,5 +175,9 @@ https://kkorenn.github.io/cattle3d/ CRAZY CATTLE 3D
 https://vinmannie.github.io/Mario64webgl/ Super Mario 64
 
 https://cheeset-idk.github.io/Polytrack/ Polytrack
+
+https://cheeset-idk.github.io/Slime-rancher/ Slime Rancher
+
+https://cheeset-idk.github.io/geometry-dash-wasm/ Geometry dash (full offline)
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
