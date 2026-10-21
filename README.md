@@ -182,6 +182,6 @@ https://cheeset-idk.github.io/geometry-dash-wasm/ Geometry dash (full offline)
 
 https://cheeset-idk.github.io/adgac/ A difficult game about climbing (VERY LAGGY CAN FREEZE MOST CHROMEBOOK)
 
-
+https://cheeset-idk.github.io/my-portfolio/ Minecraft 26.2
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
