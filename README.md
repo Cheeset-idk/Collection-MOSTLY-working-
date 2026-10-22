@@ -186,5 +186,10 @@ https://cheeset-idk.github.io/my-portfolio/ Minecraft 26.2
 
 https://cheeset-idk.github.io/ultrakill-webport/  Ultrakill (DEMO)
 
+https://ksp.ishotupa.school/ Kerbal Space Program (Doesn't really work on Chromebook. WARNING: TAKES OVER 3GIGS OF MEMORY)
+
+https://cheeset-idk.github.io/SMGwebport/ Super Mario Galaxy (Takes forever to load fist time, if an error appears reload the page)
+
+
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
