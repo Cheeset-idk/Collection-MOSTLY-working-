@@ -190,6 +190,14 @@ https://ksp.ishotupa.school/ Kerbal Space Program (Doesn't really work on Chrome
 
 https://cheeset-idk.github.io/SMGwebport/ Super Mario Galaxy (Takes forever to load fist time, if an error appears reload the page)
 
+https://cha554.github.io/Peak/ Peak
+
+https://root-hunter.github.io/ppsspp-web/ppsspp (playstations PSP emulator)
+
+https://cha554.github.io/browser/ Proxy
+
+https://cha554.github.io/0.-3..1P_w8/ RimWorld
+
 
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
