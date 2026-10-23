@@ -59,7 +59,7 @@ https://humanbenchmark.com/dashboard Funny little challenges :3
 
 https://www.geo-fs.com/ Huge web based plane sim (entire world)
 
-GitHub forks:
+GitHub forks, Essentially none are mine, but are hosted on github pages through forks I've made of other people projects:
 
 https://cheeset-idk.github.io/Bit-plane/ Bit plane
 
