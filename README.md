@@ -198,6 +198,10 @@ https://cha554.github.io/browser/ Proxy
 
 https://cha554.github.io/0.-3..1P_w8/ RimWorld
 
+https://down1oads.github.io/rorweb/ Rigs of Rods (beamng)
 
+https://nawsif.github.io/html/rounds ROUNDS
+
+https://github.com/AlexBoops/DEEEER-Simulator-Port FEEDER simulator 
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
