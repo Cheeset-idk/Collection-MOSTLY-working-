@@ -193,4 +193,14 @@ https://nawsif.github.io/html/rounds ROUNDS
 
 https://github.com/AlexBoops/DEEEER-Simulator-Port DEEER simulator 
 
+https://cheeset-idk.github.io/Skeep-page/ Skeep (I made)
+
+https://cheeset-idk.github.io/Trauma-lab/ Trauma Lab (kind of gore)
+
+https://cheeset-idk.github.io/Mcdonalds/ Procedural show creator (I made)
+
+https://cheeset-idk.github.io/Granny/ Granny (sort of ripoff? mb)
+
+
+
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
