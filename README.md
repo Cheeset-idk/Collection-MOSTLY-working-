@@ -155,6 +155,8 @@ https://cheeset-idk.github.io/stardew-wasm/ Stardew valley (unsure if working)
 
 https://pmotschmann.github.io/Evolve/ (similar to KittensGame, just more of a clicker)
 
+https://cheeset-idk.github.io/Bro../ MFR (SPEED RUN PURPOSES ONLY, all you gotta know is that opening this at school will likely get yourself a long talk from parents/school staff, and have everyone know your name, this is not a good thing.)
+
 https://pelya.github.io/openttd-touch-webapp OpenTTD (DEFINITELY USE TUTORIAL MY GOD THIS GAME IS 110x MORE COMPLICATED THAN SHAPEZ)
 
 https://cheeset-idk.github.io/SMB-Remastered-1.1.0-Webport-T4actica1-/ Super Mario Bros Remastered (to play, go to repository and install rom.nes, then open the game and drag the file onto the screen once asked. z+action x+back Arrows+movement).
@@ -206,5 +208,9 @@ https://agentcube.github.io/carrion-wasm Carrion
 https://cheeset-idk.github.io/miside/ Miside
 
 https://cheeset-idk.github.io/clover-pit-3/ Cloverpit
+
+https://cheeset-idk.github.io/spaceflight-simulator/ Spaceflight simulator
+
+https://cheeset-idk.github.io/pggbog/ people playground (UPDATED!)
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
