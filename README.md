@@ -201,6 +201,10 @@ https://cheeset-idk.github.io/Mcdonalds/ Procedural show creator (I made)
 
 https://cheeset-idk.github.io/Granny/ Granny (sort of ripoff? mb)
 
+https://agentcube.github.io/carrion-wasm Carrion
 
+https://cheeset-idk.github.io/miside/ Miside
+
+https://cheeset-idk.github.io/clover-pit-3/ Cloverpit
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
