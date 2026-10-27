@@ -155,7 +155,7 @@ https://cheeset-idk.github.io/stardew-wasm/ Stardew valley (unsure if working)
 
 https://pmotschmann.github.io/Evolve/ (similar to KittensGame, just more of a clicker)
 
-https://cheeset-idk.github.io/Bro../ MFR (SPEED RUN PURPOSES ONLY, all you gotta know is that opening this at school will likely get yourself a long talk from parents/school staff, and have everyone know your name, this is not a good thing.)
+https://cheeset-idk.github.io/Bro../ MFR (SPEED RUN PURPOSES ONLY, maybe don't... open this near a school...)
 
 https://pelya.github.io/openttd-touch-webapp OpenTTD (DEFINITELY USE TUTORIAL MY GOD THIS GAME IS 110x MORE COMPLICATED THAN SHAPEZ)
 
