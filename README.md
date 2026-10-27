@@ -213,4 +213,24 @@ https://cheeset-idk.github.io/spaceflight-simulator/ Spaceflight simulator
 
 https://cheeset-idk.github.io/pggbog/ people playground (UPDATED!)
 
+https://cheeset-idk.github.io/DLSWebPort/ Digital Logic Simulator
+
+https://cheeset-idk.github.io/Ages-of-conflict-/ Ages Of Conflict
+
+https://alexboops.github.io/TF2-Web/ Team Fortress 2
+
+https://alexboops.github.io/portal-1-port/ Portal 1
+
+https://cheeset-idk.github.io/UploadLabsWebPort/ Upload Labs
+
+https://cheeset-idk.github.io/superflight-webport/ Superflight
+
+https://cheeset-idk.github.io/ShiftAtMidnightPort/ Shift at midnight
+
+https://cheeset-idk.github.io/Gambonanza-Port/ Gambonanza
+
+https://cheeset-idk.github.io/cruelty-squad/ Cruelty squad
+
+https://chiikabu.github.io/the-browsing-of-isaac/ The Binding of Isaac: Repentance+
+
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
