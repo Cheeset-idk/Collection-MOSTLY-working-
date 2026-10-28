@@ -233,4 +233,6 @@ https://cheeset-idk.github.io/cruelty-squad/ Cruelty squad
 
 https://chiikabu.github.io/the-browsing-of-isaac/ The Binding of Isaac: Repentance+
 
+https://cheeset-idk.github.io/kisakcod/ cod 4: modern warfare
+
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
