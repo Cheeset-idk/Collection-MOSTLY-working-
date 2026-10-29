@@ -225,4 +225,20 @@ https://chiikabu.github.io/the-browsing-of-isaac/ The Binding of Isaac: Repentan
 
 https://cheeset-idk.github.io/kisakcod/ cod 4: modern warfare (slow)
 
+https://alexboops.github.io/half-life-2-port/ Half life 2
+
+https://cheeset-idk.github.io/five-nights-at-happy-nice-guy/ Five Nights at Epstein
+
+https://cheeset-idk.github.io/yomih/ Your Only Move is Hustle
+
+https://cheeset-idk.github.io/goorp/ Worldbox
+
+https://cheeset-idk.github.io/is/ CS 1.6 (Multiplayer, original not cs2/CSGO)
+
+https://cheeset-idk.github.io/Hollow-Knight-Port/ Hollow night (YES I know it takes forever to load)
+
+https://cheeset-idk.github.io/iron-lung/ Iron Lung
+
+https://github.com/Atreyu802/My-Furry-Protogen-Web-Port Ok I'm not porting ts (unlike mfr) but here's the files. https://github.com/q-29/swhport-fixed This too
+
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
