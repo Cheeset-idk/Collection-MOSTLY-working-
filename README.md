@@ -148,6 +148,8 @@ https://pmotschmann.github.io/Evolve/ (similar to KittensGame, just more of a cl
 
 https://cheeset-idk.github.io/Bro../ MFR (SPEED RUN PURPOSES ONLY, maybe don't... open this near a school... Can't put name of game or this gets blocked)
 
+https://github.com/Atreyu802/My-Furry-Protogen-Web-Port Ok I'm not porting ts (unlike mfr) but here's the files. https://github.com/q-29/swhport-fixed This too
+
 https://pelya.github.io/openttd-touch-webapp OpenTTD (DEFINITELY USE TUTORIAL MY GOD THIS GAME IS 110x MORE COMPLICATED THAN SHAPEZ)
 
 https://cheeset-idk.github.io/SMB-Remastered-1.1.0-Webport-T4actica1-/ Super Mario Bros Remastered (to play, go to repository and install rom.nes, then open the game and drag the file onto the screen once asked. z+action x+back Arrows+movement).
@@ -239,6 +241,5 @@ https://cheeset-idk.github.io/Hollow-Knight-Port/ Hollow night (YES I know it ta
 
 https://cheeset-idk.github.io/iron-lung/ Iron Lung
 
-https://github.com/Atreyu802/My-Furry-Protogen-Web-Port Ok I'm not porting ts (unlike mfr) but here's the files. https://github.com/q-29/swhport-fixed This too
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
