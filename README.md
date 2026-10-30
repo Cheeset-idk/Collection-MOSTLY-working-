@@ -38,8 +38,6 @@ https://cheeset-idk.github.io/Stack/ Stack
 
 https://cheeset-idk.github.io/territorial.io/ Territorial.io
 
-https://cheeset-idk.github.io/FNAF-1/ FNAF1
-
 https://cheeset-idk.github.io/Happy-Wheels/ Happy Wheels
 
 https://cheeset-idk.github.io/Cookie-clicker/ Cookie clicker
@@ -55,10 +53,6 @@ https://cheeset-idk.github.io/Slope/ Slope
 https://cheeset-idk.github.io/PVZ/ Plants vs. zombies
 
 https://cheeset-idk.github.io/Snowball.io/ Snowball.io
-
-https://cheeset-idk.github.io/FNAF-4/ FNAF 4
-
-https://cheeset-idk.github.io/FNAF-2/ FNAF 2 (idk if it works or not, I couldn't get it to load, file size was right though...
 
 https://cheeset-idk.github.io/Boxing-random/ Boxing random
 
@@ -207,6 +201,15 @@ https://cheeset-idk.github.io/is/ CS 1.6 (Multiplayer, original not cs2/CSGO)
 https://cheeset-idk.github.io/Hollow-Knight-Port/ Hollow night (YES I know it takes forever to load)
 
 https://cheeset-idk.github.io/iron-lung/ Iron Lung
+
+https://cheeset-idk.github.io/agafabh/ A game about feeding a black hole
+
+https://cheeset-idk.github.io/hd_fnaf/ Cheeset's FNAF launcher (Every original official game ;3)
+
+https://cheeset-idk.github.io/milkman/ (Change graphics to fast to see, font low quality sorry)
+
+https://cheeset-idk.github.io/tabs/ Totally accurate battle simulator (YES, I GET IT)
+
 
 
 I DON'T OWN LIKE ANY OF THESE, ALL CONTENT GOES TO THE ORIGINAL CREATORS
